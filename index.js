@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 var userName = readlineSync.question(chalk.yellowBright("What's your name human? "), '\n');
 
-console.log('\n', chalk.cyan("Hello, Mr. " + userName + ". Welcome to the 'Start-Up quiz app' where we test your knowledge about startup world!"), '\n')
+console.log('\n', chalk.cyan("Hello, Mrs./Mr. " + userName + ". Welcome to the 'Start-Up quiz app' where we test your knowledge about startup world!"), '\n')
 
 var score = 0;
 
