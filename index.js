@@ -14,7 +14,7 @@ var userWithHighestScore = {
 
 var questionArray = [
   {
-    question: "1. One of these people was the common factor between three start-ups - Dogspot, Crayon Data and UrbanClap. Who is it? ",
+    question: "1. This famous Indian personality is the common factor between these three start-ups - Dogspot, Crayon Data and UrbanClap. Who is it? ",
     answer: "Ratan Tata",
   },
   {
